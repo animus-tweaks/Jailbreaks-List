@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Current List Of Working Jailbreaks
 
-You can use the [editor on GitHub](https://github.com/animus-tweaks/jailbreaks-list/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello!! Here is a list off ALL working Jailbreaks i could find. To submit more, ask me or something idk.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Enjoy.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## List:
 
 ```markdown
-Syntax highlighted code block
+Current Working Jailbreaks:
 
-# Header 1
-## Header 2
-### Header 3
+Chimera: https://chimera.coolstar.org/
+Checkra1n: https://checkra.in/
+Odyssey: https://theodyssey.dev/
+Silo: https://getsileo.app/
+unc0ver: https://unc0ver.dev/
+Meridian: https://meridian.sparkes.zone/
+Double H3lix: https://doubleh3lix.tihmstar.net/
+H3lix: https://h3lix.tihmstar.net/
+PHŒNIX: https://phoenixpwn.com/
+Blackra1n: https://blackra1n.com/
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Have Fun Using These
+I am NOT Responsible For Anything That Happens off-site
 ```
+## More Coming Soon
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/animus-tweaks/jailbreaks-list/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Coming Soon...
