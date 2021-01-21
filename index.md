@@ -1,6 +1,6 @@
 ## Current List Of Working Jailbreaks
 
-Hello!! Here is a list off ALL working Jailbreaks i could find. To submit more, ask me or something idk.
+Hello!! Here is a list of ALL working Jailbreaks i could find. To submit more, ask me or something idk.
 
 Enjoy.
 
